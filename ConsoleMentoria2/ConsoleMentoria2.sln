@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36109.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleMentoria2", "ConsoleMentoria2\ConsoleMentoria2.csproj", "{62137382-C3AD-44D9-9209-2F97254C050B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62137382-C3AD-44D9-9209-2F97254C050B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62137382-C3AD-44D9-9209-2F97254C050B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62137382-C3AD-44D9-9209-2F97254C050B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62137382-C3AD-44D9-9209-2F97254C050B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56628C73-7262-4F17-9D68-95E1D5A65821}
+	EndGlobalSection
+EndGlobal
